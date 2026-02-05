@@ -41,5 +41,3 @@ It includes a performant blast mechanic, dynamic group icons based on thresholds
 - Submitted as a Unity project ZIP **excluding the Library folder**.
 - No external plugins required.
 - Compatible with Windows / macOS / Linux via Unity 2022.3.47f1.
-
-Thank you for reviewing my submission.
