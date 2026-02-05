@@ -33,9 +33,9 @@ It includes a performant blast mechanic, dynamic group icons based on thresholds
 ## Project Structure
 - `BoardManager.cs` – grid creation, input, blast/collapse/refill
 - `Tile.cs` – tile behavior and movement
-- `BoardAnalyzer.cs` – group detection + icon updates
+- `BoardAnalyzer.cs` – group detection 
 - `DeadlockSolver.cs` – deadlock detection + deterministic shuffle
-- `GameConfig.cs` – board setup, colors, thresholds, icons
+- `GameConfig.cs` – setup, thresholds
 
 ## Notes
 - Submitted as a Unity project ZIP **excluding the Library folder**.
