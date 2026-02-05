@@ -10,7 +10,7 @@ Reha Demircan
 
 
 ## Overview
-This project is a Collapse/Blast tile-matching prototype developed for Good Job Games' internship case study.
+This project is a Collapse/Blast tile-matching prototype developed
 It includes a performant blast mechanic, dynamic group icons based on thresholds, and deadlock detection with a deterministic shuffle solution.
 
 ## How to Play
